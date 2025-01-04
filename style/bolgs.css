@@ -1,0 +1,13 @@
+div{
+    background-color: azure;
+    border: 2px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    color: blueviolet;
+    border-radius: 20px;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow:20px ;
+    margin-bottom: 20px;
+}
