@@ -11,3 +11,15 @@ div{
     text-shadow:20px ;
     margin-bottom: 20px;
 }
+.bangladesh{
+    background-color: aqua;
+}
+.nepal{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+  margin-top:  30px;
+    padding: 100px;margin: 50px;
+    box-shadow: 10px 20px 50px 10px  chocolate;
+    color: white;
+}
